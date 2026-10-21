@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# misc
+.DS_Store
+*.tsbuildinfo
+
+# env / local registry config
+.env
+.env*.local
+.npmrc
